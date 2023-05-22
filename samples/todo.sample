@@ -1,0 +1,9 @@
+todos:
+  - name: "SQL: Log EventSub events"
+    completed: true
+  - name: "UI: Streamer scope config UI"
+    completed: false
+  - name: "Auth: `tokens refresh` command"
+    completed: false
+  - name: "API: Proxy Helix API calls"
+    completed: false
